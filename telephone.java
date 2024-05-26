@@ -7,7 +7,7 @@ public class telephone {
     private Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        TelephoneDirectory app = new TelephoneDirectory();
+        telephone app = new telephone();
         app.run();
     }
 
